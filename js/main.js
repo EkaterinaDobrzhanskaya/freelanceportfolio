@@ -43,3 +43,10 @@ btnDarkMode.onclick = function (){
     }
 };
 
+/* Переход от кнопки к кнопке (нижнее подчеркивание) */
+if ( someValue === userValue) {
+    console.log('True')
+} else {
+    console.log('False')
+};
+
